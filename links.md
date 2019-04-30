@@ -1,11 +1,8 @@
 # Azure Links
 
-AKS
-[Links](./links.md)
-
-
-Trailwind
-SmartHotel360
-
-Microsoft parts unlimited 
-Microsoft parts unlimited MRP
+Samples (Uncategorized)
+[Trailwind](./links.md)
+[SmartHotel360](./links.md)
+[Eshop](./links.md)
+[Microsoft parts unlimited ](./links.md)
+[Microsoft parts unlimited MRP](./links.md)

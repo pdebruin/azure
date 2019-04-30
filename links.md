@@ -22,6 +22,15 @@ https://github.com/Azure/phippyandfriends
 
 https://aksworkshop.io
 
+aka.ms/aksappmod
+
+aka.ms/aksmicroservices
+
+aka.ms/aksdatascience
+
+aka.ms/aksiot
+
+
 ## IoT
 
 https://github.com/Azure/iot-edge-virtual-kubelet-provider
